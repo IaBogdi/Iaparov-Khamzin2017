@@ -1,0 +1,4 @@
+N_ch_exp  26
+N_SbS_exp  17
+N_Both_exp  3
+N_Iso_exp 4 
